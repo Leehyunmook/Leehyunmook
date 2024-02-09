@@ -5,9 +5,9 @@
 📫누가 봐도 알기 쉬운 코드를 목표로 하는 개발자<br/>
 📫빈 틈을 채워나가는 개발자<br/>
 ##### 1994.12.03
-🌟**portpolio**<br/>
-🌟**email** jay6266@naver.com<br/>
-🌟**github** https://github.com/Leehyunmook<br/>
+🌟**portpolio**  <br/>
+🌟**email**   jay6266@naver.com<br/>
+🌟**github**  https://github.com/Leehyunmook<br/>
 
 <!--
 **Leehyunmook/Leehyunmook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
