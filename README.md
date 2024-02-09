@@ -4,10 +4,8 @@
 누가 봐도 알기 쉬운 코드를 목표로 개발을 진행하고 있습니다.
 ##### 1994.12.03
 🌟<br/>
-🌟email jay6266@naver.com<br/>
-🌟github
-🌟
-🌟
+🌟**email** jay6266@naver.com<br/>
+🌟**github** https://github.com/Leehyunmook<br/>
 
 <!--
 **Leehyunmook/Leehyunmook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
