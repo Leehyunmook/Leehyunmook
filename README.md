@@ -6,7 +6,7 @@
 📫빈 틈을 채워나가는 개발자<br/>
 ##### 1994.12.03
 🌟**portpolio**  <br/>
-🌟*email*   jay6266@naver.com<br/>
+🌟*email*  jay6266@naver.com<br/>
 🌟*github*  https://github.com/Leehyunmook<br/><br/><br/>
 💪 Skills
 --
@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 
---<br/>
+--  <br/>
 GitHub stats<br/>
 [![Hee-sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leehyunmook)](https://github.com/anuraghazra/github-readme-stats)
 
