@@ -7,8 +7,8 @@
 ##### 1994.12.03
 🌟**portpolio**  <br/>
 🌟**email**   jay6266@naver.com<br/>
-🌟**github**  https://github.com/Leehyunmook<br/>
-💪 ### Skills
+🌟**github**  https://github.com/Leehyunmook<br/><br/><br/>
+💪 Skills
 --
 
 <!--
