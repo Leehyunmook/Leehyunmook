@@ -40,7 +40,7 @@
 
 ## 📫 Contacts
 [![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/Leehyunmook/)](https://github.com/Leehyunmook/)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Lee-Hyun-Mook-2a8ca7d664f04919816122ac424147e3?pvs=4/)](https://www.notion.so/Lee-Hyun-Mook-2a8ca7d664f04919816122ac424147e3?pvs=4/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=/)](/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lolipop6266@gmail.com)](mailto:lolipop6266@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jay6266@naver.com)](mailto:jay6266@naver.com)
 <br/><br/>
