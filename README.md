@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-
 </ul>
 
 ## 🌱 Tools
@@ -39,12 +38,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 
-
 ## 📫 Contacts
-[![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/kstar0703/)](https://github.com/kstar0703/)
+[![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/Leehyunmook/)](https://github.com/Leehyunmook/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)](https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kstar966@gmail.com)](mailto:kstar966@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lolipop6266@gmail.com)](mailto:lolipop6266@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jay6266@naver.com)](mailto:jay6266@naver.com)
 <br/>
 GitHub stats<br/>
 
