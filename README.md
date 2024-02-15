@@ -44,7 +44,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lolipop6266@gmail.com)](mailto:lolipop6266@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jay6266@naver.com)](mailto:jay6266@naver.com)
 <br/><br/>
-GitHub stats
+GitHub stats<br/>
 [![Hyunmook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leehyunmook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
