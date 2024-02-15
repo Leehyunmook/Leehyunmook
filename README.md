@@ -6,7 +6,7 @@
 📫빈 틈을 채워나가는 개발자<br/>
 ##### 1994.12.03
 
-🌟portpolio  <br/>
+🌟##### portpolio  <br/>
 🌟email  jay6266@naver.com<br/>
 🌟github  https://github.com/Leehyunmook<br/><br/><br/>
 💪 Skills
