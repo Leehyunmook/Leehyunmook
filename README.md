@@ -10,7 +10,7 @@
 #### 🌟email  jay6266@naver.com<br/>
 #### 🌟github  https://github.com/Leehyunmook<br/><br/><br/>
 
-#### 💪 Skills
+💪 Skills
 ---
 <ul>
 <li>BACKEND</li>
@@ -32,7 +32,7 @@
 
 </ul>
 
-# 🌱Tools
+🌱Tools
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -40,7 +40,7 @@
 ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 
 <br/>
- 📫 Contacts
+📫 Contacts
 [![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/kstar0703/)](https://github.com/kstar0703/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)](https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kstar966@gmail.com)](mailto:kstar966@gmail.com)
