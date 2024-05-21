@@ -15,7 +15,7 @@
 <ul>
 <li>BACKEND</li>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-![image](https://github.com/Leehyunmook/Leehyunmook/assets/142950613/811aaaae-5a24-4377-a8a8-cbc1cd572480)
+
 
 <li>FRAMEWORK </li>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
