@@ -4,11 +4,6 @@
 📫꼼꼼한 개발자<br/>
 📫누가 봐도 알기 쉬운 코드를 목표로 하는 개발자<br/>
 📫빈 틈을 채워나가는 개발자<br/>
-##### 1994.12.03
-
-#### 🌟Email  jay6266@naver.com<br/>
-#### 🌟Notion https://peaceful-platypus-65c.notion.site/2a8ca7d664f04919816122ac424147e3?pvs=4  <br/><br/><br/>
-
 
 ## 💪 Skills
 
@@ -41,7 +36,7 @@
 
 ## 📫 Contacts
 [![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/Leehyunmook/)](https://github.com/Leehyunmook/)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://peaceful-platypus-65c.notion.site/Lee-Hyun-Mook-2a8ca7d664f04919816122ac424147e3?pvs=4/)](https://peaceful-platypus-65c.notion.site/Lee-Hyun-Mook-2a8ca7d664f04919816122ac424147e3?pvs=4/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://peaceful-platypus-65c.notion.site/0f54863ffb1341ce95865db3f3e0ee7d?pvs=4)](https://peaceful-platypus-65c.notion.site/0f54863ffb1341ce95865db3f3e0ee7d?pvs=4)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lolipop6266@gmail.com)](mailto:lolipop6266@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jay6266@naver.com)](mailto:jay6266@naver.com)
 <br/><br/>
